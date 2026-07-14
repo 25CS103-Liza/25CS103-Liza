@@ -4,10 +4,6 @@
 
 ### Computer Science & Engineering Student | CSPIT, CHARUSAT
 
-<img src="./banner.png" alt="GitHub Banner" width="100%"/>
-
-<br>
-
 [![GitHub](https://img.shields.io/badge/GitHub-25CS103--Liza-181717?style=for-the-badge&logo=github)](https://github.com/25CS103-Liza)
 
 </div>
@@ -18,7 +14,7 @@
 
 I'm a **Second-Year Computer Science & Engineering student** at **CSPIT, CHARUSAT**, passionate about learning modern technologies and building practical software projects.
 
-I enjoy solving problems, exploring Artificial Intelligence, and developing web applications that strengthen my programming skills.
+I enjoy solving problems, exploring **Artificial Intelligence**, and developing applications that strengthen my programming and problem-solving skills.
 
 ---
 
@@ -28,60 +24,35 @@ I enjoy solving problems, exploring Artificial Intelligence, and developing web 
 - 🤖 Artificial Intelligence
 - ☕ Java Programming
 - 📚 Data Structures & Algorithms
-- 💻 Building Real-World Projects
+- 💻 Software Development
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌐 Web Development
-
-A collection of HTML, CSS and JavaScript practicals developed as part of my academic learning.
-
----
-
-### 🤖 AI-Powered Study Platform *(In Progress)*
-
-An AI-powered web application where students can:
-
-- Upload PDF notes
-- Generate AI summaries
-- Create quizzes
-- Generate flashcards
-- Track study progress
-
----
-
-### ☕ Java Projects *(Coming Soon)*
-
-A repository containing Java programs, OOP concepts and mini projects.
-
----
-
-### 💡 Mini Projects
-
-Small projects created while exploring new technologies and improving problem-solving skills.
+- 🌐 **Web Development** *(In Progress)*
+- 🤖 **AI-Powered Study Platform** *(Coming Soon)*
+- ☕ **Java Projects** *(Coming Soon)*
+- 💡 **Mini Projects** *(Coming Soon)*
 
 ---
 
 ## 📖 Currently Learning
 
-- Java
-- HTML, CSS & JavaScript
-- Git & GitHub
-- Artificial Intelligence
-- Node.js
-- SQL
+- ☕ Java
+- 🌐 HTML, CSS & JavaScript
+- 🔧 Git & GitHub
+- 🤖 Artificial Intelligence
 
 ---
 
-## 🌱 2026 Goals
+## 🌱 Goals for 2026
 
-- ✅ Build a strong GitHub portfolio
-- ✅ Complete Full Stack Web Development
-- ✅ Develop the AI-Powered Study Platform
-- ✅ Strengthen Data Structures & Algorithms
-- ✅ Contribute to Open Source
+- 🚀 Build a strong GitHub portfolio
+- 🌐 Complete Full Stack Web Development
+- 🤖 Develop the AI-Powered Study Platform
+- 📚 Strengthen Data Structures & Algorithms
+- 🤝 Contribute to Open Source
 
 ---
 
@@ -93,13 +64,13 @@ Small projects created while exploring new technologies and improving problem-so
 
 ## 🤝 Let's Connect
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/25CS103-Liza">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
