@@ -1,146 +1,112 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Liza Soni Banner"/>
+# Hi 👋, I'm Liza Soni
 
-# Hi 👋 I'm Liza Soni
+### Computer Science & Engineering Student | CSPIT, CHARUSAT
 
-### 💻 Computer Science & Engineering Student
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Enthusiast;Full+Stack+Web+Development;Java+Programmer;Always+Learning+Something+New" alt="Typing Animation"/>
+<img src="./banner.png" alt="GitHub Banner" width="100%"/>
 
 <br>
 
-![](https://img.shields.io/badge/CSPIT-CHARUSAT-blue?style=for-the-badge)
-![](https://img.shields.io/badge/AI-Enthusiast-purple?style=for-the-badge)
-![](https://img.shields.io/badge/Web-Developer-0A66C2?style=for-the-badge)
-![](https://img.shields.io/badge/Java-Learner-orange?style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/GitHub-25CS103--Liza-181717?style=for-the-badge&logo=github)](https://github.com/25CS103-Liza)
 
 </div>
 
 ---
 
-# 🙋 About Me
+## 👩‍💻 About Me
 
-🎓 Second-Year Computer Science & Engineering Student at **CSPIT, CHARUSAT**
+I'm a **Second-Year Computer Science & Engineering student** at **CSPIT, CHARUSAT**, passionate about learning modern technologies and building practical software projects.
 
-💡 Passionate about learning modern technologies and building practical software projects.
-
-🚀 Currently focused on improving my skills in Web Development, Artificial Intelligence and Java through hands-on projects.
+I enjoy solving problems, exploring Artificial Intelligence, and developing web applications that strengthen my programming skills.
 
 ---
 
-# 🚀 Current Journey
+## 🎯 Current Focus
 
-🌐 Learning Full Stack Web Development
-
-🤖 Exploring Artificial Intelligence
-
-☕ Strengthening Java Programming
-
-📚 Practicing Data Structures & Algorithms
-
-💻 Building Real-World Projects
+- 🌐 Full Stack Web Development
+- 🤖 Artificial Intelligence
+- ☕ Java Programming
+- 📚 Data Structures & Algorithms
+- 💻 Building Real-World Projects
 
 ---
 
-# 📂 Featured Projects
+## 🚀 Featured Projects
 
-## 🌐 Web Development
+### 🌐 Web Development
 
-HTML, CSS and JavaScript practicals created during my learning journey.
-
----
-
-## 🤖 AI-Powered Study Platform *(In Progress)*
-
-A web application where students can:
-
-- 📄 Upload PDFs
-- 🤖 Ask AI questions
-- 📝 Generate summaries
-- 📚 Create flashcards
-- ❓ Generate quizzes
-- 📊 Track study progress
+A collection of HTML, CSS and JavaScript practicals developed as part of my academic learning.
 
 ---
 
-## ☕ Java Projects
+### 🤖 AI-Powered Study Platform *(In Progress)*
 
-Collection of Java programs covering:
+An AI-powered web application where students can:
 
-- OOP
-- File Handling
-- Collections
-- Mini Projects
-
----
-
-## 💡 Mini Projects
-
-Small applications developed while exploring new technologies.
+- Upload PDF notes
+- Generate AI summaries
+- Create quizzes
+- Generate flashcards
+- Track study progress
 
 ---
 
-# 📖 Currently Learning
+### ☕ Java Projects *(Coming Soon)*
 
-<p>
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-</p>
+A repository containing Java programs, OOP concepts and mini projects.
 
 ---
 
-# 🎯 Goals
+### 💡 Mini Projects
 
-✅ Build a strong GitHub Portfolio
-
-✅ Complete Full Stack Development
-
-✅ Build AI-Powered Study Platform
-
-✅ Learn DSA in Java
-
-✅ Contribute to Open Source
+Small projects created while exploring new technologies and improving problem-solving skills.
 
 ---
 
-# 💭 Quote
+## 📖 Currently Learning
 
-<div align="center">
-
-> **"Learn consistently. Build confidently. Improve continuously."**
-
-</div>
+- Java
+- HTML, CSS & JavaScript
+- Git & GitHub
+- Artificial Intelligence
+- Node.js
+- SQL
 
 ---
 
-# 📫 Connect
+## 🌱 2026 Goals
 
-<div align="center">
+- ✅ Build a strong GitHub portfolio
+- ✅ Complete Full Stack Web Development
+- ✅ Develop the AI-Powered Study Platform
+- ✅ Strengthen Data Structures & Algorithms
+- ✅ Contribute to Open Source
+
+---
+
+## 💭 Quote
+
+> **"Learning never stops. Every project is another opportunity to grow as an engineer."**
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
 
 <a href="https://github.com/25CS103-Liza">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thank you for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
-*"Every project is one step closer to becoming a better engineer."*
+*"Keep learning. Keep building. Keep growing."* 🚀
 
 </div>
